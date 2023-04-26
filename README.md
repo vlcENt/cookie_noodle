@@ -1,5 +1,3 @@
 # cookie_noodle
 A special dish
-https://chat.tl/t-T0EGzQtPpEB
-https://chat.tl/t-tO20jqWLaPS
-aHR0cHwM6Ly9naXRodWIuY29tL2ltb3Njb3ZpdHovd2l0dGdlbnN0ZWluCmh0dHBzOi8vcHlwaS5vcmcvcHJvamVjdC93ZWthLwpodHRwczovL2Jsb2cuY3Nkbi5uZXQvd2VpeGluXzMwODMyMzUxL2FydGljbGUvZGV0YWlscy85NDg4OTU1Nw==
+https://chat.tl/t-QbKZ7V6pIU
